@@ -8,6 +8,6 @@ Na hlavní stránce se nachází seznam obrazů prezentovaný ve formě kartiče
 
 Uživatelské rozhraní zahrnuje hlavní menu s odkazy na kategorie obrazů, stránku s nákupním košíkem a sekci uživatelského účtu. V košíku je možnost upravovat objednávku a následně ji dokončit pomocí platební brány.
 
-##Wireframe
+## Wireframe
 
 ![Wireframe](./IMG_4264.png)
