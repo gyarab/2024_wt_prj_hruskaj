@@ -10,4 +10,4 @@ Uživatelské rozhraní zahrnuje hlavní menu s odkazy na kategorie obrazů, str
 
 ##Wireframe
 
-![Wireframe](./)
+![Wireframe](./IMG_4264.png)
