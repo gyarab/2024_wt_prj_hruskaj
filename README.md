@@ -14,4 +14,4 @@ Uživatelské rozhraní zahrnuje hlavní menu s odkazy na kategorie obrazů, str
 
 ## DB Schéma
 
-![DBSchema](./IMG_4420.png)
+![DBSchema](./IMG_4421.png)
