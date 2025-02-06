@@ -11,3 +11,7 @@ Uživatelské rozhraní zahrnuje hlavní menu s odkazy na kategorie obrazů, str
 ## Wireframe
 
 ![Wireframe](./IMG_4264.png)
+
+## DB Schéma
+
+![DBSchema](./IMG_4420.png)
